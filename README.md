@@ -8,25 +8,25 @@ Assests included from MSU.
 
 ## Goals and Objectives
 
-Creating 3D games in Unity
+*Creating 3D games in Unity
 
-Implement typical 3D shooter (FPS) mechanics
+*Implement typical 3D shooter (FPS) mechanics
 
-Using Unity Terrain to create environments
+*Using Unity Terrain to create environments
 
-Creating more elaborate user interfaces
+*Creating more elaborate user interfaces
 
-Understanding the asset pipeline and 3D asset setup
+*Understanding the asset pipeline and 3D asset setup
 
-Level design in 3D space
+*Level design in 3D space
 
-Creating a complex C# script from scratch using Visual Studio
+*Creating a complex C# script from scratch using Visual Studio
 
-Using NavMesh to create Enemy movement
+*Using NavMesh to create Enemy movement
 
-Go through the steps of creating a complete game
+*Go through the steps of creating a complete game
 
-Build the game for multiple platforms
+*Build the game for multiple platforms
 
 
 
